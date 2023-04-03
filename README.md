@@ -11,11 +11,11 @@
 <h3>🛠 Tech Stack</h3>
 <ul>
 <li>💻 &nbsp; AWS | Openstack | Docker | Terraform</li>
-<li>💻 &nbsp; PHP | Python</li>
+<li>💻 &nbsp; PHP | Python | C++</li>
 <li>🛢 &nbsp; Postgres | Mongodb</li>
 <li>🔧 &nbsp; Git | Markdown</li>
 </ul>
-
+<br>
 ![Gbairros's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbairros&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbairros)](https://github.com/anuraghazra/github-readme-stats)
