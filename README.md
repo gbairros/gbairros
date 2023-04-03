@@ -17,7 +17,7 @@
 </ul>
 
 <br/>
-[![Gbairros's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbairros&show_icons=true)] (https://github.com/gbairros)
+![Gbairros's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbairros&show_icons=true)
 <br/>
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
