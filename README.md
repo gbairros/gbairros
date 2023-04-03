@@ -4,7 +4,7 @@
 <ul>
 <li>🤔 &nbsp; Exploring new technologies and developing software solutions.</li>
 <li>💼 &nbsp; Working as a Cloud Architect at Serpro - Federal Data Processing Service</li>
-<li>:book: &nbsp; Learning more about Cloud Architecture, IaC and Sofware Development.</li>
+<li>:book: &nbsp; Learning more about Cloud Architecture, IaC, Sofware Development and IoT.</li>
 <li>:man_teacher: &nbsp; Professor at SENAC and Uniftec/FTec</li>
 </ul>
 
