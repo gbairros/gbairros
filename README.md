@@ -4,15 +4,15 @@
 <ul>
 <li>🤔 &nbsp; Exploring new technologies and developing software solutions.</li>
 <li>💼 &nbsp; Working as a Cloud Architect at Serpro - Federal Data Processing Service</li>
-<li>🌱 &nbsp; Learning more about Cloud Architecture, IaC and Sofware Development.</li>
-<li>Professor at SENAC and Uniftec/FTec</li>
+<li>:book: &nbsp; Learning more about Cloud Architecture, IaC and Sofware Development.</li>
+<li>:man_teacher: &nbsp; Professor at SENAC and Uniftec/FTec</li>
 </ul>
 
 <h3>🛠 Tech Stack</h3>
 <ul>
 <li>💻 &nbsp; AWS | Openstack | Docker | Terraform</li>
 <li>💻 &nbsp; PHP | Python | C++</li>
-<li>🛢 &nbsp; Postgres | Mongodb</li>
+<li>🛢 &nbsp; PostgreSQL | Mongodb</li>
 <li>🔧 &nbsp; Git | Markdown</li>
 </ul>
 
