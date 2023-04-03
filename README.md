@@ -16,9 +16,8 @@
 <li>🔧 &nbsp; Git | Markdown</li>
 </ul>
 
-<br/>
 ![Gbairros's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbairros&show_icons=true)
-<br/>
+
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/gbairros/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gildomiro%20Bairros-blue?style=flat-square&logo=linkedin"></a>
