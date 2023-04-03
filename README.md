@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 <ul>
 <li>🤔 &nbsp; Exploring new technologies and developing software solutions.</li>
-<li>💼 &nbsp; Working as a Cloud Archtect at Serpro - Federal Data Processing Service</li>
+<li>💼 &nbsp; Working as a Cloud Architect at Serpro - Federal Data Processing Service</li>
 <li>🌱 &nbsp; Learning more about Cloud Architecture, IaC and Sofware Development.</li>
 <li>Professor at SENAC and Uniftec/FTec</li>
 </ul>
@@ -15,7 +15,7 @@
 <li>🛢 &nbsp; Postgres | Mongodb</li>
 <li>🔧 &nbsp; Git | Markdown</li>
 </ul>
-<br>
+
 ![Gbairros's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbairros&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbairros)](https://github.com/anuraghazra/github-readme-stats)
