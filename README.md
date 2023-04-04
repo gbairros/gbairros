@@ -18,7 +18,7 @@
 
 ![Gbairros's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbairros&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbairros)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbairros)](https://github.com/gbairros/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
